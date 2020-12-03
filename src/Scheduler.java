@@ -10,7 +10,7 @@ public class Scheduler {
 
     private Swaping swaping = new Swaping();
 
-    PhysMemory physMemory = new PhysMemory();
+    private PhysMemory physMemory = new PhysMemory();
 
     private static Random rnd = new Random();
 

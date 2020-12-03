@@ -1,6 +1,6 @@
 public class Thread {
 
-    final int time;
+    private int time;
     private int ostTime;
     private String name;
 
